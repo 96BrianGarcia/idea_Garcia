@@ -1,0 +1,71 @@
+/* ENCABEZADOS */
+.titulo-principal, .productos-destacados-titulo, h3 {
+  font-family: "PT Serif", serif;
+}
+
+.titulo-principal {
+  font-size: 60px;
+}
+
+.productos-destacados-titulo {
+  font-size: 35px;
+}
+
+/* FOOTER */
+.redes-item, .pago-item {
+  list-style: none;
+  text-decoration: none;
+}
+
+/* HEADER */
+.menu-container {
+  border-top: 2px solid green;
+  border-bottom: 2px solid green;
+}
+
+/* COLORES */
+.menu-container {
+  background-color: #f5f5dc;
+}
+
+body {
+  background-color: #fdf5e6 !important;
+}
+
+/* FUENTES */
+.nav-link {
+  font-family: "Abril Fatface", cursive;
+  font-size: 20px;
+  color: #587246;
+}
+
+.card-title {
+  font-size: 20px;
+  font-family: "Abril Fatface", cursive;
+}
+
+/* SECCION PRODUCTOS */
+.productos-destacados {
+  border: 2px solid #587246;
+}
+.productos-destacados:hover {
+  animation: 2s;
+  transform: translate(10px, 20px);
+}
+
+.boton-productos, .categoria-producto {
+  background-color: #587246;
+  border-radius: 1px solid black;
+}
+
+.card-productos {
+  background-color: #f5f5dc;
+}
+
+/* MAPS */
+/* CAROUSEL */
+.carousel-contenedor {
+  border: 3px groove black;
+}
+
+/*# sourceMappingURL=style.css.map */

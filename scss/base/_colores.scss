@@ -1,0 +1,16 @@
+/* COLORES */ 
+
+$colores:
+#fdf5e6,
+#f5f5dc,
+#eae6ca,
+#587246;
+
+
+.menu-container{
+    background-color: nth($colores , 2) ;
+}
+
+body{
+    background-color: nth($colores, 1)!important;
+}
